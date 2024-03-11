@@ -38,6 +38,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Acknowledgments / 감사의 말
 
-* Hat tip to anyone whose code was used / 코드를 사용한 모든 사용자들에게 팁
 * Inspiration / 영감
 * etc / 기타
